@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10d85d30-a1b3-4219-836a-aaa055fdad7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="275" />
+    <option name="myElementSize" value="276" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -22,6 +20,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand />
@@ -161,7 +162,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583638374096</updated>
-      <workItem from="1583638377999" duration="9713000" />
+      <workItem from="1583638377999" duration="10246000" />
     </task>
     <servers />
   </component>
@@ -209,6 +210,14 @@
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
     <state x="0" y="23" width="873" height="1223" key="dock-window-3/0.23.2560.1333@0.23.2560.1333" timestamp="1583691620464" />
+    <state x="185" y="106" width="789" height="1049" key="dock-window-4" timestamp="1583693383969">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="185" y="106" width="789" height="1049" key="dock-window-4/0.23.2560.1333@0.23.2560.1333" timestamp="1583693383969" />
+    <state x="15" y="89" width="867" height="1079" key="dock-window-5" timestamp="1583693383969">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="15" y="89" width="867" height="1079" key="dock-window-5/0.23.2560.1333@0.23.2560.1333" timestamp="1583693383969" />
     <state x="1514" y="271" width="670" height="676" key="search.everywhere.popup" timestamp="1583691431700">
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
